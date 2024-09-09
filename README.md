@@ -64,4 +64,4 @@ This project uses an Arduino to control a lamp and various LEDs based on Bluetoo
 
 ## License
 
-© Veendy 2024
+### © Veendy 2020
